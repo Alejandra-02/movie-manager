@@ -26,5 +26,33 @@
         "genre": "Ciencia ficcion",
         "description": "Un ex marine parapléjico es enviado a la luna Pandora en una misión única, pero se debate entre seguir sus órdenes y proteger el mundo que siente como su hogar.",
         "image_url": "https://example.com/avatar.jpg"
+    },
+     {
+        "title": "Interestelar",
+        "duration": "169 minutos",
+        "genre": "Ciencia ficcion",
+        "description": "\"Interstellar\" narra la historia de Joseph Cooper, un granjero que trabajó como astronauta de la NASA, quien debe volver a colocarse su traje de viajero espacial para ir en un viaje casi sin retorno con el fin de salvar a la humanidad de la degradación ambiental que aqueja a la tierra.",
+        "image_url": "https://example.com/inception.jpg"
+    },
+    {
+        "title": "The Matrix",
+        "duration": "136 minutes",
+        "genre": "Accion",
+        "description": "La película plantea que en el futuro, tras una dura guerra, casi todos los seres humanos han sido esclavizados por las máquinas y las inteligencias artificiales creadas. Estas los tienen en suspensión y con sus mentes conectadas a una realidad virtual llamada Matrix que representa el final del siglo XX.",
+        "image_url": "https://example.com/matrix.jpg"
+    },
+    {
+        "title": "Inception",
+        "duration": "148 minutos",
+        "genre": "Ciencia ficcion",
+        "description": "Dom Cobb es un ladrón hábil, el mejor en el peligroso arte de la extracción: el robo de secretos valiosos desde lo más profundo del subconsciente durante el estado de sueño, cuando la mente está más vulnerable.",
+        "image_url": "https://example.com/inception.jpg"
+    },
+    {
+        "title": "Avatar",
+        "duration": "162 minutos",
+        "genre": "Ciencia ficcion",
+        "description": "Un ex marine parapléjico es enviado a la luna Pandora en una misión única, pero se debate entre seguir sus órdenes y proteger el mundo que siente como su hogar.",
+        "image_url": "https://example.com/avatar.jpg"
     }
 ]
