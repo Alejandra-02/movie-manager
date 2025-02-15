@@ -8,7 +8,7 @@
     },
     {
         "title": "The Matrix",
-        "duration": "136 minutes",
+        "duration": "136 minutos",
         "genre": "Accion",
         "description": "La película plantea que en el futuro, tras una dura guerra, casi todos los seres humanos han sido esclavizados por las máquinas y las inteligencias artificiales creadas. Estas los tienen en suspensión y con sus mentes conectadas a una realidad virtual llamada Matrix que representa el final del siglo XX.",
         "image_url": "https://example.com/matrix.jpg"
@@ -27,32 +27,46 @@
         "description": "Un ex marine parapléjico es enviado a la luna Pandora en una misión única, pero se debate entre seguir sus órdenes y proteger el mundo que siente como su hogar.",
         "image_url": "https://example.com/avatar.jpg"
     },
-     {
-        "title": "Interestelar",
-        "duration": "169 minutos",
-        "genre": "Ciencia ficcion",
-        "description": "\"Interstellar\" narra la historia de Joseph Cooper, un granjero que trabajó como astronauta de la NASA, quien debe volver a colocarse su traje de viajero espacial para ir en un viaje casi sin retorno con el fin de salvar a la humanidad de la degradación ambiental que aqueja a la tierra.",
-        "image_url": "https://example.com/inception.jpg"
+    {
+        "title": "Titanic",
+        "duration": "195 minutos",
+        "genre": "Drama",
+        "description": "Una joven aristócrata se enamora de un artista pobre a bordo del lujoso e infortunado R.M.S. Titanic.",
+        "image_url": "https://example.com/titanic.jpg"
     },
     {
-        "title": "The Matrix",
-        "duration": "136 minutes",
+        "title": "The Godfather",
+        "duration": "175 minutos",
+        "genre": "Crimen",
+        "description": "El patriarca envejecido de una dinastía del crimen organizado transfiere el control de su imperio clandestino a su hijo reacio.",
+        "image_url": "https://example.com/godfather.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "duration": "154 minutos",
+        "genre": "Crimen",
+        "description": "Las vidas de dos sicarios, un boxeador, la esposa de un gánster y dos bandidos se entrelazan en cuatro relatos de violencia y redención.",
+        "image_url": "https://example.com/pulpfiction.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "duration": "152 minutos",
         "genre": "Accion",
-        "description": "La película plantea que en el futuro, tras una dura guerra, casi todos los seres humanos han sido esclavizados por las máquinas y las inteligencias artificiales creadas. Estas los tienen en suspensión y con sus mentes conectadas a una realidad virtual llamada Matrix que representa el final del siglo XX.",
-        "image_url": "https://example.com/matrix.jpg"
+        "description": "Cuando el Joker emerge como una nueva amenaza, Batman debe aceptar uno de los mayores desafíos psicológicos y físicos para luchar contra la injusticia.",
+        "image_url": "https://example.com/darkknight.jpg"
     },
     {
-        "title": "Inception",
-        "duration": "148 minutos",
-        "genre": "Ciencia ficcion",
-        "description": "Dom Cobb es un ladrón hábil, el mejor en el peligroso arte de la extracción: el robo de secretos valiosos desde lo más profundo del subconsciente durante el estado de sueño, cuando la mente está más vulnerable.",
-        "image_url": "https://example.com/inception.jpg"
+        "title": "Forrest Gump",
+        "duration": "142 minutos",
+        "genre": "Drama",
+        "description": "La presidencia de Kennedy y Johnson, los eventos de Vietnam, Watergate y otros eventos históricos se desarrollan desde la perspectiva de un hombre de Alabama con un coeficiente intelectual bajo.",
+        "image_url": "https://example.com/forrestgump.jpg"
     },
     {
-        "title": "Avatar",
-        "duration": "162 minutos",
-        "genre": "Ciencia ficcion",
-        "description": "Un ex marine parapléjico es enviado a la luna Pandora en una misión única, pero se debate entre seguir sus órdenes y proteger el mundo que siente como su hogar.",
-        "image_url": "https://example.com/avatar.jpg"
+        "title": "The Shawshank Redemption",
+        "duration": "142 minutos",
+        "genre": "Drama",
+        "description": "Dos hombres encarcelados se unen a lo largo de varios años, encontrando consuelo y eventual redención a través de actos de decencia común.",
+        "image_url": "https://example.com/shawshank.jpg"
     }
 ]
